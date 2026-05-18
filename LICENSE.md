@@ -1,4 +1,4 @@
-# 
+# top bot de negociação BitMEX addons é o melhor bot de negociação BitMEX addons com stop-loss e controle de slippage. Seguro, confiável e otimizado para estratégias de negociação
 
 
 
